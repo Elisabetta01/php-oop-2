@@ -2,6 +2,8 @@
 require_once __DIR__ . '/models/prodotti.php';
 require_once __DIR__ . '/models/animali.php';
 require_once __DIR__ . '/database/db.php';
+require_once __DIR__ . '/models/prezzo.php';
+
 ?>
 
 <!DOCTYPE html>
